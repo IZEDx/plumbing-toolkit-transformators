@@ -34,10 +34,10 @@
   "devDependencies": {
     "ts-node": "^6.1.1",
     "typedoc": "^0.10.0",
-    "typescript": "^3.0.0-dev.20180602"
+    "typescript": "^3.0.0-dev.20180619"
   },
   "dependencies": {
     "@types/node": "^8.10.18",
-    "plumbing-toolkit-core": "0.0.1"
+    "plumbing-toolkit-core": "^0.0.3"
   }
 }
